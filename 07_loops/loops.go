@@ -4,13 +4,13 @@ import "fmt"
 
 func main() {
 	for i := 1; i < 10; i = i + 2 {
-		// fmt.Println(i)
+		fmt.Println(i)
 	}
 
 	//While
 	i := 0
 	for i < 10 {
-		// fmt.Println(i)
+		fmt.Println(i)
 		i++
 	}
 

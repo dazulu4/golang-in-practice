@@ -10,9 +10,9 @@ import "fmt"
 */
 
 func main() {
-	// if true {
-	// 	fmt.Println("Hola mundo")
-	// }
+	if true {
+		fmt.Println("Hola mundo")
+	}
 
 	x := 10
 	y := 10
